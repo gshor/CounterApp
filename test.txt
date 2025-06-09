@@ -1,1 +1,14 @@
-2   3
+Clone
+1) Open Github Creaate new Repository
+2) Open Visual Studio (Insure you connected) 
+3) Go to Source Control
+4) Clone (Put your address in)
+5) Choose local Folder to start with
+------------------------------------------
+OPen Repository in github (Without ReadMe) 
+if you allready have project with code:
+ git remote add origin {You url}
+ git branch -M main
+ git push -u origin main
+------------------------------------------
+
